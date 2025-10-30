@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-window.title("Мой трекер учебы - Глеб")
+window.title("Мой трекер учебы")
 window.state("zoomed")  # Максимизировать окно
 
 # Можно добавить меню для управления
