@@ -1,10 +1,10 @@
-# Study Tracker - Трекер обучения Python
+# Treker Work - Modern Task Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
-![SQLite](https://img.shields.io/badge/DB-SQLite-orange.svg)
+![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-purple.svg)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)
 
-Приложение для отслеживания прогресса в изучении Python. Создано в качестве учебного проекта и для портфолио.
+Современное desktop-приложение для трекинга учебных задач с красивым интерфейсом на базе CustomTkinter.
 
 ## 🚀 О проекте
 
@@ -28,7 +28,7 @@
 ## 🛠 Технологии
 
 - **Python 3.8+** - основной язык программирования
-- **Tkinter** - библиотека для создания GUI
+- **CustomTkinter** - библиотека для современного графического интерфейса
 - **SQLite** - система управления базами данных
 - **JSON** - хранение конфигурационных данных
 
@@ -36,18 +36,42 @@
 
 ### Требования
 - Python 3.8 или выше
-- Библиотеки из requirements.txt
+- Установленная библиотека CustomTkinter
 
 ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/study-tracker.git
+git clone https://github.com/EMPTY-PROGRAM/Treker-work.git
 
 # Переход в директорию проекта
-cd study-tracker
+cd Treker-work
 
 # Установка зависимостей
-pip install -r requirements.txt
+pip install customtkinter
 
 # Запуск приложения
-python main.py
+python ### Установка
+```bash
+# Клонирование репозитория
+git clone https://github.com/EMPTY-PROGRAM/Treker-work.git
+
+# Переход в директорию проекта
+cd Treker-work
+
+# Установка зависимостей
+pip install customtkinter
+
+# Запуск приложения
+python ### Установка
+```bash
+# Клонирование репозитория
+git clone https://github.com/EMPTY-PROGRAM/Treker-work.git
+
+# Переход в директорию проекта
+cd Treker-work
+
+# Установка зависимостей
+pip install customtkinter
+
+# Запуск приложения
+python Treker-work.py
